@@ -1,0 +1,10 @@
+{
+  "name": "hono-node-demo",
+  "license": "MIT",
+  "module": "api/index.mjs",
+  "type": "module",
+  "packageManager": "pnpm@9.12.3",
+  "scripts": {
+    "start": "node api/index.mjs"
+  }
+}
